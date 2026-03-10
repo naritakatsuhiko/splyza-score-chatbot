@@ -29,8 +29,8 @@
 #### ① App StoreまたはGoogle Playからアプリをダウンロード
 以下のリンク、または各ストアで「SPLYZA Score for Basketball」と検索してインストールすることができます。
 
-* **App Store (iOS)**: https://apps.apple.com/jp/app/splyza-score-for-basketball/id6745...
-* **Google Play (Android)**: https://play.google.com/store/apps/details?id=com.splyza.scorefor...
+* **App Store (iOS)**: https://apps.apple.com/jp/app/splyza-score-for-basketball/id6745863128
+* **Google Play (Android)**: https://play.google.com/store/apps/details?id=com.splyza.scoreforbasketball&hl=ja_JP&pli=1
 
 #### ② アプリを起動
 * アプリのアイコンをタップする（ex. iPad）
@@ -188,6 +188,10 @@
 6. ポジションを選択する。「ポジション」の右にある「選択」をタップする
 7. 該当するポジションをタップする（ex. SG シューティングガード）
 8. それぞれの項目の入力が完了したら、「登録」ボタンをタップする
+
+【補足】
+* 1つのチームに登録（所属）できる選手数に制限はありません。
+* 1つの試合にエントリーできる選手数については、試合設定のヘルプをご確認ください。
 
 ### 3. 選手情報を編集する
 1. 編集したい選手の右にある「編集」ボタンをタップする
